@@ -9,4 +9,4 @@ Series Part 5: [Connect to EC2 using Fleet Manager](https://youtu.be/umcAdFgQ0Zs
 
 ## Resources
 
-- **ConnectToEC2-DemoInstanceConnectPolicy.json** - This is a AWS IAM policy file to grant IAM user to connect to EC2 using Instance Connect
+- **ConnectToEC2-DemoInstanceConnectPolicy.json** - This is a AWS IAM policy file to grant IAM user to connect to EC2 using Instance Connect and Instance Connect Endpoint
